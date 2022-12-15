@@ -4,11 +4,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server.
+Navigate to `http://localhost:4200/`.
+The application will automatically reload if you change any of the source files.
+This is a CRUD operation development project,
+Angular as the frontend, SQL for database and C# as the middleware
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
